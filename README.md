@@ -1,9 +1,25 @@
 <h1 align="center">Hi 👋, I'm Faizmohmad Maredia</h1>
 <h3 align="center">A passionate Software Development + Devops from India</h3>
 
-- 🌱 I’m currently learning with help from **https://www.youtube.com/@AbhishekVeeramalla/playlists**
+**About me**
 
-- 📫 How to reach me **faizmaredia105@gmail.com**
+-> I completed my bachelor degree in computer engineering at Sankalchand Patel college of engineering. And I scored 9.07 CGPA Overall.
+
+-> I have a strong interest in DevOps technologies and processes and I am a rapid learner.
+
+-> I have Great analytical and communication skills, easily understanding of concepts and abstract ideas.
+
+-> Technical Skills: Java, SQL
+
+-> Devops Tools: Docker, Jenkins, Git , GitHub, AWS Services, CI/CD Pipeline.
+
+-> Problem solving: Data Structure and Algorithm, Design and Analysis of Algorithm.
+
+-> Knowledge about Core subjects like Operating System , Database Management Systems and Computer networks.
+
+-> 🌱 I’m currently learning with help from **https://www.youtube.com/@AbhishekVeeramalla/playlists**
+
+-> 📫 How to reach me **faizmaredia105@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
