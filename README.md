@@ -27,7 +27,13 @@
 
 -> CI/CD Pipeline     ( AWS Code, AWS Build, AWS Deploy, AWS Services like EC2, S3, IAM etc.)
 
--> 🌱 I’m currently learning with help from **https://www.youtube.com/@AbhishekVeeramalla/playlists**
+**Learning**
+
+-> Interest in cloud Based Technologies
+
+-> 🌱 I’m currently learning devops tools and technologies with help from **https://www.youtube.com/@AbhishekVeeramalla/playlists**
+
+**contact**
 
 -> 📫 How to reach me **faizmaredia105@gmail.com**
 
