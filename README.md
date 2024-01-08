@@ -17,9 +17,9 @@
 
 -> Knowledge about Core subjects like Operating System , Database Management Systems and Computer networks.
 
--> Below I add my projects repository, which i work on for implementing skills.
-
 **Projects**
+
+-> Below I add my projects repository, which i work on for implementing skills.
 
 -> Sorting Visualizer ( skills Data structures and Algorithms)
 
