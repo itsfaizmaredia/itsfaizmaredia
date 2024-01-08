@@ -17,6 +17,16 @@
 
 -> Knowledge about Core subjects like Operating System , Database Management Systems and Computer networks.
 
+-> Below I add my projects repository, which i work on for implementing skills.
+
+**Projects**
+
+-> Sorting Visualizer ( skills Data structures and Algorithms)
+
+-> Covid-19 Tracker   ( skills HTML, CSS, JS)
+
+-> CI/CD Pipeline     ( AWS Code, AWS Build, AWS Deploy, AWS Services like EC2, S3, IAM etc.)
+
 -> 🌱 I’m currently learning with help from **https://www.youtube.com/@AbhishekVeeramalla/playlists**
 
 -> 📫 How to reach me **faizmaredia105@gmail.com**
